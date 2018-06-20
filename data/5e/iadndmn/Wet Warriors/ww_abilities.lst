@@ -1,0 +1,18 @@
+###Block: Languages
+Bullywug				CATEGORY:Language	AUTO:LANG|Bullywug		TYPE:Language.Spoken.Bullywug			DESC:Bullywug Language
+
+###Block: Races
+
+##Bullywug (IADnDMN)
+Racial Traits ~ Bullywug (IADnDMN)	CATEGORY:Internal	ABILITY:Bullywug (IADnDMN) Trait|AUTOMATIC|TYPE=Base Bullywug (IADnDMN) Trait
+# Bullywug (IADnDMN) Traits
+Ability Score Increase	KEY:Bullywug (IADnDMN) ~ Ability Score Increase		SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:Your Constitution score increases by 2, and your Dexterity score increases by 1.	BONUS:STAT|Con|2|TYPE=Racial	BONUS:STAT|Dex|1|TYPE=Racial
+Age				KEY:Bullywug (IADnDMN) ~ Age						SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:Bullywugs mature at about age 3, and the oldest live to be about 60 years old.
+Alignment			KEY:Bullywug (IADnDMN) ~ Alignment					SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:Most Bullywugs are evil, but a slim few reject the foul ways of their people and can be of neutral or even good alignment.
+Size				KEY:Bullywug (IADnDMN) ~ Size					SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:Your size is Medium.
+Speed				KEY:Bullywug (IADnDMN) ~ Speed					SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:Bullywugs’ frog-like legs make them excellent swimmers, but make walking difficult. Your base movement speed is 25 feet, and your base swimming speed is 35 feet.
+Amphibious			KEY:Bullywug (IADnDMN) ~ Darkvision				SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:You can breathe air and water.
+Languages	KEY:Bullywug (IADnDMN) ~ Languages	SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Race Trait.Base Bullywug (IADnDMN) Trait.Bullywug (IADnDMN) Trait.SpecialQuality	DESC:You can speak, read, and write Common, and you understand and can speak Bullywug.	ABILITY:Language Selection|AUTOMATIC|Bullywug|Common
+Speak with Frogs and Toads	KEY:Bullywug (IADnDMN) ~ Speak with Frogs and Toads	SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:When speaking in Bullywug, you can communicate simple ideas and concepts to frogs and toads.
+Standing Leap	KEY:Bullywug (IADnDMN) ~ Standing Leap	SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:Your long jump is 20 feet, and your high jump is 10 feet, with or without a running start.
+Swamp Camouflage	KEY:Bullywug (IADnDMN) ~ Swamp Camouflage	SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Bullywug (IADnDMN) Trait.Base Bullywug (IADnDMN) Trait.SpecialQuality.Race Trait	VISIBLE:EXPORT	DESC:You have advantage on Dexterity (Stealth) checks made to hide in thick undergrowth, mud, or murky water.

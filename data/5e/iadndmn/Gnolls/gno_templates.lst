@@ -1,0 +1,4 @@
+Subrace ~ Gnoll Mystic		VISIBLE:NO	SUBRACE:Gnoll Mystic
+Subrace ~ Gnoll Scout		VISIBLE:NO	SUBRACE:Gnoll Scout
+Subrace ~ Gnoll Warrior		VISIBLE:NO	SUBRACE:Gnoll Warrior
+d8 bite	NATURALATTACKS:Bite,Melee.Weapon.Natural.OneTarget.Piercing,*1,1d8

@@ -1,0 +1,20 @@
+CAMPAIGN:iadndmn - Wet Warriors
+KEY:5e - iadndmn - wet warriors
+RANK:6
+BOOKTYPE:iadndmn Supplement
+GAMEMODE:5e
+STATUS:ALPHA
+TYPE:Homebrew
+SOURCELONG:Wet Warriors
+SOURCESHORT:ww
+SOURCEDATE:2018-06
+PUBNAMELONG:iadndmn
+PUBNAMESHORT:idm
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e iadndmn
+
+RACE:ww_races.lst
+ABILITY:ww_abilities.lst
+ABILITYCATEGORY:ww_abilitycategories.lst
+LANGUAGE:ww_languages.lst

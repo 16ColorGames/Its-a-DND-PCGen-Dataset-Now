@@ -1,0 +1,21 @@
+CAMPAIGN:iadndmn - Goblinoids
+KEY:5e - iadndmn - Goblinoids
+RANK:6
+BOOKTYPE:iadndmn Supplement
+GAMEMODE:5e
+STATUS:ALPHA
+TYPE:Homebrew
+SOURCELONG:ItsADnDRaceNow: Goblinoids
+SOURCESHORT:gbo
+SOURCEDATE:2018-06
+PUBNAMELONG:iadndmn
+PUBNAMESHORT:idm
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e iadndmn
+
+RACE:gbo_races.lst
+ABILITY:gbo_abilities.lst
+ABILITYCATEGORY:gbo_abilitycategories.lst
+TEMPLATE:gbo_templates.lst
+LANGUAGE:gbo_languages.lst

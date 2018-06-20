@@ -1,0 +1,17 @@
+CAMPAIGN:Silence of Mothvale
+KEY:5e - iadndmn - Silence of Mothvale
+RANK:6
+BOOKTYPE:iadndmn Supplement
+GAMEMODE:5e
+STATUS:ALPHA
+TYPE:Homebrew
+SOURCELONG:Silence of Mothvale
+SOURCESHORT:som
+SOURCEDATE:2018-06
+PUBNAMELONG:iadndmn
+PUBNAMESHORT:idm
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e iadndmn
+
+RACE:som_races.lst

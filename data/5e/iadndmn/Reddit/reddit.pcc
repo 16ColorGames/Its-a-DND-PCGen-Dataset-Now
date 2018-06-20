@@ -1,0 +1,20 @@
+CAMPAIGN:iadndmn - Reddit Content
+KEY:5e - iadndmn - Reddit Content
+RANK:6
+BOOKTYPE:iadndmn Supplement
+GAMEMODE:5e
+STATUS:ALPHA
+TYPE:Homebrew
+SOURCELONG:Reddit Content
+SOURCESHORT:rc
+SOURCEDATE:2018-06
+PUBNAMELONG:iadndmn
+PUBNAMESHORT:idm
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e iadndmn
+
+
+SPELL:rc_spells.lst
+EQUIPMENT:rc_equip.lst
+EQUIPMOD:rc_equipmods.lst

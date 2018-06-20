@@ -24,5 +24,14 @@ Anything not listed below has not been started on.
 
 ## Wet Warriors
 
+* Bullywug - Complete
 * All of the Kuo-Toa
 * All of the Sahuagin
+
+## ItsADnDRaceNow: Goblinoids
+
+* Not started other than supplement header file
+
+## Reddit Content
+
+* Not started other than supplement header file

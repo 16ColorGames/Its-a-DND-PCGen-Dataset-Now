@@ -20,7 +20,7 @@ Anything not listed below has not been started on.
 
 ## ItsADnDRaceNow: Gnolls
 
-* Warrior Gnoll Improved Natural Weapon
+COMPLETE - Ready for testing
 
 ## Wet Warriors
 
@@ -33,5 +33,9 @@ Anything not listed below has not been started on.
 * Not started other than supplement header file
 
 ## Reddit Content
+
+* Not started other than supplement header file
+
+## Silence of Mothvale
 
 * Not started other than supplement header file

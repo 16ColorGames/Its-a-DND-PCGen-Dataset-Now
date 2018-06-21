@@ -29,7 +29,9 @@ COMPLETE - Ready for testing
 * Kuo-toa
 	* Priest(ess) Made Gods power
 	* Pincer Staff proficiency tweaks
-* All of the Sahuagin
+* Sahuagin
+	* Check into language selections
+	* Look into customized dominate beast for Shark Telepathy
 
 ## ItsADnDRaceNow: Goblinoids
 
@@ -42,3 +44,11 @@ COMPLETE - Ready for testing
 ## Silence of Mothvale
 
 * Not started other than supplement header file
+
+## Warforged Two Ways
+
+* Not Started
+
+## Minotaurs, Take Three
+
+* Not Started

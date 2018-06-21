@@ -1,2 +1,3 @@
 Bullywug (IADnDMN)	SOURCEPAGE:Wet Warriors Homebrew v1.0	SIZE:M	MOVE:Walk,25,Swim,35	ABILITY:Internal|AUTOMATIC|Racial Traits ~ Bullywug (IADnDMN)	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Bullywug	TYPE:Humanoid.PC
 Kuo-toa				SOURCEPAGE:Wet Warriors Homebrew v1.0	SIZE:M	MOVE:Walk,30,Swim,30	ABILITY:Internal|AUTOMATIC|Racial Traits ~ Kuo-toa	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Kuo-toa	TYPE:Humanoid.PC
+Sahuagin			SOURCEPAGE:Wet Warriors Homebrew v1.0	SIZE:M	MOVE:Walk,30,Swim,40	ABILITY:Internal|AUTOMATIC|Racial Traits ~ Sahuagin	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Sahuagin	TYPE:Humanoid.PC

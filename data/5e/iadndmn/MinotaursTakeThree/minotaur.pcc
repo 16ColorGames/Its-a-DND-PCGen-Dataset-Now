@@ -1,0 +1,20 @@
+CAMPAIGN:iadndmn - Minotaurs
+KEY:5e - iadndmn - Minotaurs
+RANK:6
+BOOKTYPE:iadndmn Supplement
+GAMEMODE:5e
+STATUS:ALPHA
+TYPE:Homebrew
+SOURCELONG:Minotaurs, Take Three
+SOURCESHORT:mtt
+SOURCEDATE:2018-06
+PUBNAMELONG:iadndmn
+PUBNAMESHORT:idm
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e iadndmn
+
+RACE:mtt_races.lst
+ABILITY:mtt_abilities.lst
+ABILITYCATEGORY:mtt_abilitycategories.lst
+TEMPLATE:mtt_templates.lst

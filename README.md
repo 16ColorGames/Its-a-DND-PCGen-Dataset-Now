@@ -1,4 +1,3 @@
-
 # Its-a-DND-PCGen-Dataset-Now
 The PCGen Dataset for It's A DND Monster Now's content
 
@@ -27,7 +26,7 @@ COMPLETE - Ready for testing
 
 * Bullywug - Complete, ready for testing
 * Kuo-toa
-	* Priest(ess) Made Gods power
+	* Priest(ess) Made Gods power, specifically the channel divinity part
 	* Pincer Staff proficiency tweaks
 * Sahuagin
 	* Check into language selections
@@ -51,4 +50,7 @@ COMPLETE - Ready for testing
 
 ## Minotaurs, Take Three
 
-* Not Started
+* Check into language selections
+* Horns
+* Goring Charge
+* Explorer - navigator

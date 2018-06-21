@@ -1,3 +1,4 @@
+
 # Its-a-DND-PCGen-Dataset-Now
 The PCGen Dataset for It's A DND Monster Now's content
 
@@ -24,8 +25,10 @@ COMPLETE - Ready for testing
 
 ## Wet Warriors
 
-* Bullywug - Complete
-* All of the Kuo-Toa
+* Bullywug - Complete, ready for testing
+* Kuo-toa
+	* Priest(ess) Made Gods power
+	* Pincer Staff proficiency tweaks
 * All of the Sahuagin
 
 ## ItsADnDRaceNow: Goblinoids

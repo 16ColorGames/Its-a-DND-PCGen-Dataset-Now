@@ -18,3 +18,6 @@ RACE:ww_races.lst
 ABILITY:ww_abilities.lst
 ABILITYCATEGORY:ww_abilitycategories.lst
 LANGUAGE:ww_languages.lst
+TEMPLATE:ww_templates.lst
+EQUIPMENT:ww_equip.lst
+WEAPONPROF:ww_profs_weapon.lst

@@ -1,0 +1,2 @@
+###Block - Attunement
+Eyeglobe					CATEGORY:Attunement	TYPE:Attunement	PREVARGTEQ:Attunement_Eyeglobe,1					PREVARLT:Attuned_Item_Count,Attuned_Item_Max																																ABILITY:Special Ability|AUTOMATIC|This Character is Violating a Rule (Eyeglobe)|PREVAREQ:Attunement_Eyeglobe,0																																				BONUS:VAR|Attuned_Item_Count|1																	COST:0

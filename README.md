@@ -3,6 +3,8 @@ The PCGen Dataset for It's A DND Monster Now's content
 
 Support ItsADnDMonsterNow on Patreon: https://www.patreon.com/ItsADnDMonsterNow/posts
 
+Note before use: Some content here requires the use of sources provided by https://github.com/BahamutDragon/pcgen, Please check them out too.
+
 All trademarked and/or copyrighted names, logos, images, and other intellectual property associated with Dungeons and Dragons
 are property of Wizards of the Coast, Hasbro Inc., and/or their respective owners. All other game content posted under the official
 Reddit, Patreon, Twitter, and Facebook accounts named "ItsADnDMonsterNow", excluding that which is already copyrighted, and
@@ -51,6 +53,14 @@ COMPLETE - Ready for testing
 ## Minotaurs, Take Three
 
 * Check into language selections
-* Horns
-* Goring Charge
+* Horns - currently lists the STR bonus in the special properties section
 * Explorer - navigator
+
+## Wonderful Wonderous Items Volume 1
+
+Complete:
+* Eyeglobe
+* Floating Lantern
+* Ghast Candle
+* Ghost Candle
+* Ghoul Candle

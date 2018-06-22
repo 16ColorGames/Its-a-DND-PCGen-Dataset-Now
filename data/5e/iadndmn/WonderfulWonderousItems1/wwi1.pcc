@@ -1,0 +1,20 @@
+CAMPAIGN:iadndmn - Wonderful Wonderous Items Volume 1
+KEY:5e - iadndmn - Wonderful Wonderous Items Volume 1
+RANK:6
+BOOKTYPE:iadndmn Supplement
+GAMEMODE:5e
+STATUS:ALPHA
+PRECAMPAIGN:1,5e - System Reference Document,5e - Dungeon Master's Guide
+TYPE:Homebrew
+SOURCELONG:Wonderful Wonderous Items Volume 1
+SOURCESHORT:wwi1
+SOURCEDATE:2018-06
+PUBNAMELONG:iadndmn
+PUBNAMESHORT:idm
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e iadndmn
+
+
+EQUIPMENT:wwi1_equip.lst
+ABILITY:wwi1_abilities.lst

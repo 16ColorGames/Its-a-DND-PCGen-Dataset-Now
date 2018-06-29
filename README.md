@@ -36,7 +36,11 @@ COMPLETE - Ready for testing
 
 ## ItsADnDRaceNow: Goblinoids
 
-* Not started other than supplement header file
+* Bugbear - Complete, ready for testing
+* Goblin
+	* Not Started
+* Hobgoblin
+	* Not Started
 
 ## Reddit Content
 
@@ -54,7 +58,7 @@ COMPLETE - Ready for testing
 
 * Check into language selections
 * Horns - currently lists the STR bonus in the special properties section
-* Explorer - navigator
+* Explorer - navigator proficiency bonuses
 
 ## Wonderful Wonderous Items Volume 1
 

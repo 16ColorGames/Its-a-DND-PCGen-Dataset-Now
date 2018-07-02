@@ -1,1 +1,2 @@
-Bugbear		SIZE:M	MOVE:Walk,30	ABILITY:Internal|AUTOMATIC|Racial Traits ~ Bugbear	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Bugbear		TYPE:Humanoid.PC
+Bugbear		SIZE:M	MOVE:Walk,30	ABILITY:Internal|AUTOMATIC|Racial Traits ~ IADNDMN Bugbear	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Goblinoid|Bugbear		TYPE:Humanoid.PC
+Goblin		SIZE:M	MOVE:Walk,30	ABILITY:Internal|AUTOMATIC|Racial Traits ~ IADNDMN Goblin	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Goblinoid|Goblin		TYPE:Humanoid.PC

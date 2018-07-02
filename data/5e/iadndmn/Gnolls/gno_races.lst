@@ -1,1 +1,1 @@
-Gnoll		SIZE:M	MOVE:Walk,30	ABILITY:Internal|AUTOMATIC|Racial Traits ~ Gnoll	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Gnoll		TYPE:Humanoid.PC
+Gnoll		SIZE:M	MOVE:Walk,30	ABILITY:Internal|AUTOMATIC|Racial Traits ~ IADNDMN Gnoll	LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Gnoll		TYPE:Humanoid.PC

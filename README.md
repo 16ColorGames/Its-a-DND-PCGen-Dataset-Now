@@ -5,6 +5,17 @@ Support ItsADnDMonsterNow on Patreon: https://www.patreon.com/ItsADnDMonsterNow/
 
 Note before use: Some content here requires the use of sources provided by https://github.com/BahamutDragon/pcgen, Please check them out too.
 
+# How to use this repo
+
+1.	Download a dataset from the releases tab above.
+2.	Follow this guide for installation: http://pcgen.org/autobuilds/pcgen-docs/menupages/sources/sourcesinstalldataoptions.html
+3.	When selecting your sources on launch, switch to the "Advanced" tab and expand the Homebrew section. Select any options you wish to use and click the "Add Selected" button. Once you have selected all the options you wish to use, click Load.
+
+Alternativly, you can copy the files from the repo directly into your data folder. See here for more info on that: http://pcgen.org/autobuilds/pcgen-docs/menupages/settings/pcgen/pcgenlocation.html
+
+# Legalese
+
+
 All trademarked and/or copyrighted names, logos, images, and other intellectual property associated with Dungeons and Dragons
 are property of Wizards of the Coast, Hasbro Inc., and/or their respective owners. All other game content posted under the official
 Reddit, Patreon, Twitter, and Facebook accounts named "ItsADnDMonsterNow", excluding that which is already copyrighted, and

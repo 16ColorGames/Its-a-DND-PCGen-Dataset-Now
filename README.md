@@ -49,8 +49,7 @@ COMPLETE - Ready for testing
 
 * Bugbear - Complete, ready for testing
 * Goblin - Complete, ready for testing
-* Hobgoblin
-	* Not Started
+* Hobgoblin - Complete, ready for testing
 
 ## Reddit Content
 

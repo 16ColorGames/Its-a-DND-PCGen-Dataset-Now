@@ -48,8 +48,7 @@ COMPLETE - Ready for testing
 ## ItsADnDRaceNow: Goblinoids
 
 * Bugbear - Complete, ready for testing
-* Goblin
-	* Not Started
+* Goblin - Complete, ready for testing
 * Hobgoblin
 	* Not Started
 

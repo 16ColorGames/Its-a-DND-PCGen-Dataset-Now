@@ -4,6 +4,7 @@ RANK:6
 BOOKTYPE:iadndmn Supplement
 GAMEMODE:5e
 STATUS:ALPHA
+PRECAMPAIGN:1,5e - Player's Handbook
 TYPE:Homebrew
 SOURCELONG:Reddit Content
 SOURCESHORT:rc
@@ -15,6 +16,7 @@ COPYRIGHT:Homebrew
 INFOTEXT:D&D 5e iadndmn
 
 
-SPELL:rc_spells.lst
-EQUIPMENT:rc_equip.lst
-EQUIPMOD:rc_equipmods.lst
+KIT:rc_kits.lst
+RACE:rc_races.lst
+ABILITY:rc_abilities.lst
+ABILITYCATEGORY:rc_abilitycategories.lst

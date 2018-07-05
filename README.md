@@ -53,7 +53,8 @@ COMPLETE - Ready for testing
 
 ## Reddit Content
 
-* Not started other than supplement header file
+* Mandrake Sprout - check into health options
+* PC Mandrake - Look into making bite and scream "special attacks"
 
 ## Silence of Mothvale
 

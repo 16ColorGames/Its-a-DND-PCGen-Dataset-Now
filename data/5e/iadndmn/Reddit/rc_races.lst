@@ -1,0 +1,6 @@
+### Block: Creatures
+Mandrake Sprout										KEY:NPC ~ IADNDMN Mandrake Sprout									SIZE:T	MOVE:Walk,30																													ABILITY:Internal|AUTOMATIC|Racial Traits ~ IADNDMN NPC Mandrake Sprout																												MONSTERCLASS:Hit Die:10				RACETYPE:Fey		RACESUBTYPE:Mandrake Sprout	CR:1		SOURCEPAGE:bit.ly/2KLaFeb	KIT:1|IADNDMN Mandrake Sprout	KIT:1|CN	BONUS:VAR|AC_Natural_Armor|2|TYPE=Racial	BONUS:VAR|DarkvisionRange|60|TYPE=Base	BONUS:VAR|TremorSenseRange|20|TYPE=Base	ABILITY:Special Ability|AUTOMATIC|Damage Resistance ~ Poison|Damage Vulnerability ~ fire	BONUS:SKILL|Intimidation,Persuasion|5	BONUS:SAVE|Charisma|5	ABILITY:Language|AUTOMATIC|Common|Sylvan
+
+### Block: PC Races
+
+Mandrake		SIZE:S	MOVE:Walk,25	ABILITY:Internal|AUTOMATIC|Racial Traits ~ IADNDMN Mandrake	LEGS:2	HANDS:2	RACETYPE:Fey	RACESUBTYPE:Mandrake		TYPE:Fey.PC		SOURCEPAGE:bit.ly/2Kyezet
